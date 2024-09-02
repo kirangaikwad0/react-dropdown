@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/github.io/react-dropdown/static/css/main.a025742c.css",
+    "main.js": "/github.io/react-dropdown/static/js/main.c338467b.js",
+    "index.html": "/github.io/react-dropdown/index.html",
+    "main.a025742c.css.map": "/github.io/react-dropdown/static/css/main.a025742c.css.map",
+    "main.c338467b.js.map": "/github.io/react-dropdown/static/js/main.c338467b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a025742c.css",
+    "static/js/main.c338467b.js"
+  ]
+}
